@@ -8,3 +8,4 @@ This repo contains buildx-desktop releases.
    from the [Releases](https://github.com/docker/buildx-desktop/releases) page.
 
 2. Move the binary to `~/.docker/cli-plugins/docker-buildx`
+3. Change its permissions `chmod a+x ~/.docker/cli-plugins/docker-buildx`
